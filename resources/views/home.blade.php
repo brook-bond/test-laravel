@@ -17,7 +17,7 @@
                     {{ __('You are logged in!') }}
                 </div>
                 <p>{{Auth::user()->name}}</p>
-                <h1>crud with image-upload</h1>
+                <h1>kukuk</h1>
             </div>
         </div>
     </div>
